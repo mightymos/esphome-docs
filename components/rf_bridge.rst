@@ -168,6 +168,7 @@ Portisch firmware
 If you have flashed the secondary MCU with the `Portisch firmware <https://github.com/Portisch/RF-Bridge-EFM8BB1>`__,
 ESPHome is able to receive the extra protocols that can be decoded as well as activate the other modes supported.
 
+A port is also available for the `Sonoff R2 v2.2 bridge <https://github.com/mightymos/RF-Bridge-OB38S003>`__.
 
 .. _rf_bridge-on_advanced_code_received:
 
